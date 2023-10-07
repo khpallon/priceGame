@@ -1,0 +1,12 @@
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#middle{
+    display: flexbox;
+    text-align: center;
+    border: 1px solid red;
+    margin-top: 50vh;
+}
